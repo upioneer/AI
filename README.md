@@ -14,7 +14,7 @@ Command-line interface for Google's Gemini models
 ```Plaintext
 AI-powered features and experiments for GitHub
 ```
-# [Google Opal](https://opal.withgoogle.com/landing)
+# [Google Opal](https://opal.withgoogle.com/landing/)
 ```Plaintext
 Google's privacy-focused AI model for employees
 ```
