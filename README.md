@@ -16,7 +16,7 @@ AI-powered features and experiments for GitHub
 ```
 # [Google Opal](https://opal.withgoogle.com/landing)
 ```Plaintext
-Google's internal, privacy-focused AI model for employees
+Google's privacy-focused AI model for employees
 ```
 # [Hugging Face](https://huggingface.co)
 ```Plaintext
